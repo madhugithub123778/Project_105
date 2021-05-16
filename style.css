@@ -1,0 +1,39 @@
+body{
+background-image: linear-gradient(rgb(0, 255, 234), rgb(0, 255, 160));padding-bottom: 20px;
+
+}
+
+.header{
+width: 600px; font-family: 'Franklin Gothic Medium';background-color: darkorchid;border-radius: 40px;color: white;border: 5px double white;padding: 5px;box-shadow: 15px 15px 20px navy;
+
+}
+
+
+p{
+font-family:Lucida;font-size: 22px;
+
+}
+
+#people_names{
+font-size: 20px;font-family: 'Trebuchet MS';
+}
+
+label{
+font-size: 20px;font-family: Times;background-color:royalblue;padding: 5px;color: white; border-radius: 10px;
+}
+
+#camera, #result{
+border: 4px dashed blueviolet;width: 350px; height: 300px;
+
+
+}
+
+#person_name_result, #accuracy_percent_result{
+background-color: cornsilk;color: red;font-size: 25px;padding: 5px;
+
+}
+
+hr{
+border-top: 3px dotted darkorchid;
+
+}
